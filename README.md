@@ -61,3 +61,9 @@ Salve o arquivo para testar o modo escolhido. O projeto foi organizado para usar
 ## Referência
 
 Material de apoio da disciplina: **Navegação em React Native — Passo a passo completo com React Navigation: Stack, Bottom Tabs e Drawer**.
+
+
+#Imagens(Abrir o link do SRC):
+<img width="1911" height="903" alt="image" src="https://github.com/user-attachments/assets/08f58d46-a508-4a43-8e59-c4363495bc64" />
+<img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/c892cb97-5665-40eb-bcad-ca6118ba8a86" />
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/46f51be8-f875-49bc-b93c-fdd5735a950e" />
